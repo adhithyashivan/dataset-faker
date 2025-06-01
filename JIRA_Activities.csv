@@ -1,0 +1,36 @@
+Activity_ID,JIRA_ID,Activity_Comment,Activity_Timestamp,Activity_User
+ACT001,NOVA-002,Comment added.,2025-05-30 23:23,Alison_S
+ACT002,NOVA-046,Comment added.,2025-04-05 15:19,John_H
+ACT003,NOVA-011,Comment added.,2025-03-06 07:48,Justin_J
+ACT004,NOVA-023,Status changed to Open,2025-03-30 08:12,John_H
+ACT005,NOVA-040,Status changed to Release,2025-04-11 02:28,Nicolas_O
+ACT006,NOVA-017,Status changed to Closed,2025-03-13 14:53,Phillip_R
+ACT007,NOVA-029,Comment added.,2025-04-13 21:02,David_T
+ACT008,NOVA-068,Across case wrong quite again.,2025-05-29 12:37,David_T
+ACT009,NOVA-071,Status changed to In Progress,2025-03-29 15:21,Justin_J
+ACT010,NOVA-027,Free article hot thousand try political blue.,2025-03-22 01:19,Jessica_D
+ACT011,NOVA-070,Comment added.,2025-05-06 09:38,Matthew_D
+ACT012,NOVA-017,Many maintain long offer parent stage season.,2025-04-28 08:51,Doris_R
+ACT013,PERF-065,Rather since television concern leg individual mother.,2025-05-20 05:59,Alison_S
+ACT014,NOVA-069,Status changed to Blocked,2025-03-21 18:12,Linda_C
+ACT015,NOVA-047,Comment added.,2025-03-18 14:55,Frances_B
+ACT016,NOVA-029,Blood nearly minute be each industry question wind.,2025-04-21 17:08,Jennifer_W
+ACT017,NOVA-069,Comment added.,2025-05-06 07:48,Phillip_R
+ACT018,LOG-014,Comment added.,2025-04-08 06:02,Jessica_D
+ACT019,NOVA-066,Status changed to Closed,2025-03-23 21:46,Doris_R
+ACT020,NOVA-036,Comment added.,2025-05-09 04:01,John_H
+ACT021,NOVA-066,Exactly hand teacher might bar.,2025-04-19 15:06,Alison_S
+ACT022,NOVA-025,Comment added.,2025-04-05 09:47,Lori_S
+ACT023,NOVA-053,Movement bring yard outside resource save.,2025-06-01 08:05,James_S
+ACT024,NOVA-038,Status changed to In Progress,2025-05-28 13:08,John_H
+ACT025,PERF-015,Status changed to Release,2025-05-03 23:09,Bradley_S
+ACT026,NOVA-017,Comment added.,2025-04-18 05:54,Joe_T
+ACT027,PERF-065,Status changed to Closed,2025-03-25 03:45,Linda_C
+ACT028,NOVA-041,Who ok loss yard nor hair the stay hand.,2025-04-08 00:00,Phillip_R
+ACT029,NOVA-061,Floor war join difficult.,2025-05-10 03:36,Linda_C
+ACT030,NOVA-053,Tell rather career election.,2025-05-16 15:36,Doris_R
+ACT031,NOVA-002,Remember identify will cover offer.,2025-03-09 08:07,Frances_B
+ACT032,NOVA-066,Status changed to Review,2025-03-17 04:13,Linda_C
+ACT033,LOG-022,Comment added.,2025-04-01 22:47,Jessica_D
+ACT034,NOVA-012,Comment added.,2025-04-11 18:09,Joe_T
+ACT035,NOVA-043,Status changed to Release,2025-03-17 20:41,Matthew_D
